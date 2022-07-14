@@ -6,3 +6,5 @@
 - featureブランチで追加します．
 - 更にdevelopmentブランチで追加します．
 
+- cloneしたものに付け加えます.
+- その後addとcommit、pushを行います.
